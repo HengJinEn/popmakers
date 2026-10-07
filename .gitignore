@@ -1,0 +1,5 @@
+verification/chrome-profile*/
+verification/*-dom.html
+verification/*.png
+scripts/
+img/
