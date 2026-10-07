@@ -1,5 +1,8 @@
 verification/chrome-profile*/
 verification/*-dom.html
 verification/*.png
+verification/
 scripts/
 img/
+serve.ps1
+README_copy.md
